@@ -1,0 +1,2 @@
+# Pyinstaller Spec Files
+For those of you who wish to build this program on your own, here are the SPEC files named per version.  Each time source is updated and compiled, the respective SPEC file will be placed here as well.  For detailed information on how to use the SPEC files, please look at the Pyinstaller guides found on their website.

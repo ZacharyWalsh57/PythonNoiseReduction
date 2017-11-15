@@ -1,0 +1,2 @@
+# One Click EXE files:
+These files are as simple as it gets.  Download the file, find it in the directory you saved it in, and double click.  I do hope to add OS X Support if this somehow takes off and I can make it work perfectly.  
